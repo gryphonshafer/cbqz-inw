@@ -1,0 +1,36 @@
+---
+seasons:
+  - name: Corinthians
+    start: Aug 1, 2025
+    days: 365
+    meets:
+
+      - name: Scramble
+        start: Sep 20 2025 8 AM PDT
+        special_material: 1 Cor 1-4
+        deadline: 0
+        host:
+            name: Grace Bible Church
+            url: https://gracebiblecda.com
+            address: 152 W Prairie Ave, Coeur d'Alene ID 83815
+            lunch: true
+
+      - name: Meet 1
+        start: Oct 18 2025 8 AM PDT
+        new_material: 1 Cor 1-7
+
+      - name: Meet 2
+        region: WWA
+
+      - name: Meet 3
+        start: Jan 10 2026 8 AM PST
+        new_material: 1 Cor 13-16
+
+      - name: Meet 4
+        region: WWA
+
+      - name: Meet 5
+        region: WWA
+
+      - name: Championships
+        region: WWA
