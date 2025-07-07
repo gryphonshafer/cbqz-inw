@@ -5,7 +5,7 @@
 
 Welcome to the Inland Northwest region of Christian Bible Quizzing.
 
-Inland Northwest (INW) is a licensed region of Christian Bible Quizzing. The ministry provides youth and adults with an opportunity to be involved in the systematic study and application of God's Word. Through this and the competition at regular quiz meets, the program builds character, instills self-discipline, and encourages prayer and unity. It equips participants with the capacity to serve in other areas of ministry, and it prepares them well for their future adult lives.
+Inland Northwest (INW) is a [provisional region](*/governance/regions.md) of Christian Bible Quizzing. The ministry provides youth and adults with an opportunity to be involved in the systematic study and application of God's Word. Through this and the competition at regular quiz meets, the program builds character, instills self-discipline, and encourages prayer and unity. It equips participants with the capacity to serve in other areas of ministry, and it prepares them well for their future adult lives.
 
 To find the next quiz meet, please consult our [Season Schedule](/meet/schedule).
 
