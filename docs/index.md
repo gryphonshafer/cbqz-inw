@@ -3,11 +3,12 @@
 
 # Inland Northwest Bible Quizzing
 
-Welcome to the Inland Northwest region of Christian Bible Quizzing.
+Welcome to the **Inland Northwest (INW)** region of [Christian Bible Quizzing (CBQ)](*/)
+<span class="material-symbols-outlined middle size">reply</span>.
 
-Inland Northwest (INW) is a [provisional region](*/governance/regions.md) of Christian Bible Quizzing. The ministry provides youth and adults with an opportunity to be involved in the systematic study and application of God's Word. Through this and the competition at regular quiz meets, the program builds character, instills self-discipline, and encourages prayer and unity. It equips participants with the capacity to serve in other areas of ministry, and it prepares them well for their future adult lives.
+To find the next quiz meet, please consult our:
 
-To find the next quiz meet, please consult our [Season Schedule](/meet/schedule).
+<a class="button colored" href="/meet/schedule">Season Schedule</a>
 
 ## What is Bible Quizzing?
 
@@ -23,6 +24,12 @@ Learn more by reading
 and find answers on in our
 [Frequently Asked Questions (FAQ)](*/FAQs.md)
 <span class="material-symbols-outlined middle size">reply</span>.
+
+## What is the INW Region?
+
+Inland Northwest (INW) is a [provisional region](*/governance/regions.md)
+<span class="material-symbols-outlined middle size">reply</span>
+of Christian Bible Quizzing. The ministry provides youth and adults with an opportunity to be involved in the systematic study and application of God's Word. Through this and the competition at regular quiz meets, the program builds character, instills self-discipline, and encourages prayer and unity. It equips participants with the capacity to serve in other areas of ministry, and it prepares them well for their future adult lives.
 
 ## Why join Quizzing?
 
