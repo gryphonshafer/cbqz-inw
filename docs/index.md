@@ -1,5 +1,5 @@
 <!-- docs:hide_top_photo -->
-<img src="/idaho_relief_location_map.svg" class="page_photo">
+<img src="/idaho_relief_location_map.svg" class="page_photo border">
 
 # Inland Northwest Bible Quizzing
 
