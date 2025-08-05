@@ -18,7 +18,7 @@ seasons:
 
       - name: Meet 1
         start: Oct 25 2025 8 AM PST
-        new_material: 1 Cor 7-12
+        new_material: 1 Cor 1-9
         host:
             name: Kamiah, ID _(Exact Location TBA)_
             address: Kamiah, ID
@@ -30,8 +30,7 @@ seasons:
 
       - name: Meet 3
         start: Jan 3 2026 8 AM PST
-        new_material: 1 Cor 13-15
-        new_material: 1 Cor 7-12
+        new_material: 1 Cor 13-16
         host:
             name: Kamiah, ID _(Exact Location TBA)_
             address: Kamiah, ID

@@ -10,10 +10,10 @@ The following is a recommended study schedule for the 2025-2026 season. The full
 |     2 | Sun, Aug 31 | Sat, Sep 6  | 1 Corinthians 2-3      |                     39 |          70 |          70 |
 |     3 | Sun, Sep 7  | Sat, Sep 13 | 1 Corinthians 4        |                     21 |          91 |          91 |
 |     4 | Sun, Sep 14 | Sat, Sep 20 | **Scramble**           |                        |             |             |
-|     5 | Sun, Sep 21 | Sat, Sep 27 | 1 Corinthians 5        |                     13 |          13 |         104 |
-|     6 | Sun, Sep 28 | Sat, Oct 4  | 1 Corinthians 6        |                     20 |          33 |         124 |
-|     7 | Sun, Oct 5  | Sat, Oct 11 | 1 Corinthians 7        |                     40 |          73 |         164 |
-|     8 | Sun, Oct 12 | Sat, Oct 18 | 1 Corinthians 8-9      |                     40 |         113 |         204 |
+|     5 | Sun, Sep 21 | Sat, Sep 27 | 1 Corinthians 5-6      |                     33 |          33 |         124 |
+|     6 | Sun, Sep 28 | Sat, Oct 4  | 1 Corinthians 7        |                     40 |          73 |         164 |
+|     7 | Sun, Oct 5  | Sat, Oct 11 | 1 Corinthians 8        |                     13 |          86 |         177 |
+|     8 | Sun, Oct 12 | Sat, Oct 18 | 1 Corinthians 9        |                     27 |         113 |         204 |
 |     9 | Sun, Oct 19 | Sat, Oct 25 | **Meet 1**             |                        |             |             |
 |    10 | Sun, Oct 26 | Sat, Nov 1  | 1 Corinthians 10       |                     33 |          33 |         237 |
 |    11 | Sun, Nov 2  | Sat, Nov 8  | 1 Corinthians 11       |                     34 |          67 |         271 |
