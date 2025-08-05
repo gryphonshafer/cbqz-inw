@@ -17,16 +17,16 @@ seasons:
         notes: No registration required
 
       - name: Meet 1
-        region: WWA
-
-      - name: Meet 2
-        start: Nov 22 2025 8 AM PST
+        start: Oct 25 2025 8 AM PST
         new_material: 1 Cor 7-12
         host:
             name: Kamiah, ID _(Exact Location TBA)_
             address: Kamiah, ID
             housing: true
             lunch: true
+
+      - name: Meet 2
+        region: WWA
 
       - name: Meet 3
         start: Jan 3 2026 8 AM PST
