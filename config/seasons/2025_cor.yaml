@@ -10,11 +10,13 @@ seasons:
         special_material: 1 Cor 1-4
         deadline: 0
         host:
-            name: Grace Bible Church
-            url: https://gracebiblecda.com
-            address: 152 W Prairie Ave, Coeur d'Alene ID 83815
+            name: Lutheran Church of the Master
+            url: https://lcmcda.org
+            address: 4800 N Ramsey Rd, Coeur d'Alene ID 83815
             lunch: true
-        notes: No registration required
+        notes: |
+            - Site of Coeur d'Alene Classical Christian School
+            - No registration required
 
       - name: Meet 1
         start: Oct 25 2025 8 AM PST
