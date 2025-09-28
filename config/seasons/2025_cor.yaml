@@ -22,8 +22,9 @@ seasons:
         start: Oct 25 2025 8 AM PST
         new_material: 1 Cor 1-9
         host:
-            name: Kamiah, ID _(Exact Location TBA)_
-            address: Kamiah, ID
+            name: Kamiah Bible Church
+            url: https://cityofkamiah.org/kamiah-bible-church
+            address: 521 10th St, Kamiah ID 83536
             housing: true
             lunch: true
 
@@ -34,8 +35,9 @@ seasons:
         start: Jan 3 2026 8 AM PST
         new_material: 1 Cor 13-16
         host:
-            name: Kamiah, ID _(Exact Location TBA)_
-            address: Kamiah, ID
+            name: Lutheran Church of the Master
+            url: https://lcmcda.org
+            address: 4800 N Ramsey Rd, Coeur d'Alene ID 83815
             housing: true
             lunch: true
 
