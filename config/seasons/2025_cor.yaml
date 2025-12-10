@@ -38,7 +38,6 @@ seasons:
             name: Bridge Bible Fellowship
             url: https://bridgebible.org
             address: 960 W Palouse River Dr, Moscow Idaho 83843
-            housing: true
             lunch: true
 
       - name: Meet 4
