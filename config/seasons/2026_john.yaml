@@ -11,15 +11,17 @@ seasons:
         deadline: 0
         notes: No registration required
         host:
-            name: Coeur dAlene Classical Christian School
-            address: 4810 N. Ramsey Road Coeur d’Alene, ID
+            name: Coeur d'Alene Classical Christian School
+            url: https://classicalchristian.com
+            address: 4810 N Ramsey Rd, Coeur d'Alene ID 83815
 
       - name: Meet 1
         start: Oct 24 2026 9 AM PDT
         new_material: John 1-6
         host:
             name: Kamiah Bible Church
-            address: 521 10th St, Kamiah, ID
+            url: https://kamiahbiblechurch.com
+            address: 521 10th St, Kamiah ID 83536
 
       - name: Meet 2
         start: Dec 5 2026 8 AM PST
@@ -38,6 +40,7 @@ seasons:
         new_material: John 13-17
         host:
           name: Heart Church
+          url: https://heartchurchnw.org
           address: 655 Sixth Ave, Fox Island WA 98333
 
       - name: Meet 5
@@ -51,7 +54,8 @@ seasons:
         days: 2
         host:
           name: Alacca Bible Camp
-          address: 101 China Garden Rd, Harpster, ID
+          url: https://alacca.org
+          address: 101 China Garden Rd, Harpster ID 83552
 
       - name: International Open Championships
         start: May 21 2027 5 PM PDT
