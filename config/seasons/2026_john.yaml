@@ -10,30 +10,48 @@ seasons:
         special_material: John 1-3
         deadline: 0
         notes: No registration required
+        host:
+            name: Coeur d'Alene Classical Christian School
+            address: 4810 N. Ramsey Road Coeur d’Alene, ID
 
       - name: Meet 1
-        start: Oct 24 2026 8 AM PDT
+        start: Oct 24 2026 9 AM PDT
         new_material: John 1-6
+        host:
+            name: Kamiah Bible Church
+            address: 521 10th St, Kamiah, ID
 
       - name: Meet 2
         start: Dec 5 2026 8 AM PST
         new_material: John 7-9
+        host:
+          name: Western WA (location TBD)
 
       - name: Meet 3
-        start: Jan 16 2027 8 AM PST
+        start: Jan 16 2027 9 AM PST
         new_material: John 10-12
+        host:
+          name: Moscow, ID (location TBD)
 
       - name: Meet 4
         start: Feb 27 2027 8 AM PST
         new_material: John 13-17
+        host:
+          name: Heart Church
+          address: 655 Sixth Ave, Fox Island WA 98333
 
       - name: Meet 5
         start: Mar 27 2027 8 AM PDT
         new_material: John 18-21
+        host:
+          name: Inland Northwest (location TBD)
 
       - name: Championships
         start: Apr 30 2027 5 PM PDT
         days: 2
+        host:
+          name: Alacca Bible Camp
+          address: 101 China Garden Rd, Harpster, ID
 
       - name: International Open Championships
         start: May 21 2027 5 PM PDT
