@@ -2,7 +2,7 @@
 
 Junior Quizzing uses a smaller selection of verses for the material. Below is the list of verses that will be asked for the 2026-2027 season.
 
-There is a printable [Memory Verse Chart](../../static/john_junior_quizzing_memory_verse_chart.pdf) and [Coloring Sheet](../../static/john_junior_quizzing_coloring_sheet.pdf) - both perfect for hanging on refrigerators.
+There is a printable [Memory Verse Chart](/john_junior_quizzing_memory_verse_chart.pdf) and [Coloring Sheet](/john_junior_quizzing_coloring_sheet.pdf) — both perfect for hanging on refrigerators.
 
 
 
