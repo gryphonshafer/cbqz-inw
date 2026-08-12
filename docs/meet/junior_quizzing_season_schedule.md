@@ -6,18 +6,9 @@ memorized verses cumulatively.
 
 ## Schedule
 
-| Date         | Meet            | Cumulative Material                 | Verses |
-| ------------ | --------------- | ----------------------------------- | -----: |
-| Sep 12, 2026 | Scramble        | John 1:1-9                          |      9 |
-| Oct 24, 2026 | Quiz Meet       | John 1:1-18                         |     18 |
-| Jan 16, 2027 | Quiz Meet       | All selected verses through John 13 |     37 |
-| Mar 27, 2027 | Final Quiz Meet | All selected verses in John         |     55 |
-
-## Locations
-
-| Date         | Meet            | Host                                     | Address                                              |
-| ------------ | --------------- | ---------------------------------------- | ---------------------------------------------------- |
-| Sep 12, 2026 | Scramble        | Coeur d'Alene Classical Christian School | 4810 N Ramsey Rd, Coeur d'Alene, ID                  |
-| Oct 24, 2026 | Quiz Meet       | Kamiah Bible Church                      | 521 10th St, Kamiah, ID                              |
-| Jan 16, 2027 | Quiz Meet       | Location TBD                             | Moscow, ID                                           |
-| Mar 27, 2027 | Final Quiz Meet | Location TBD                             | Inland Northwest (Lewiston, ID or Coeur d'Alene, ID) |
+| Date         | Meet                | Cumulative Material                 | Verses | Host                                     | Address                                              |
+| ------------ | ------------------- | ----------------------------------- | -----: | ---------------------------------------- | ---------------------------------------------------- |
+| Sep 12, 2026 | Scramble            | John 1:1-9                          |      9 | Coeur d'Alene Classical Christian School | 4810 N Ramsey Rd, Coeur d'Alene, ID                  |
+| Oct 24, 2026 | Junior Quiz Meet #1 | John 1:1-18                         |     18 | Kamiah Bible Church                      | 521 10th St, Kamiah, ID                              |
+| Jan 16, 2027 | Junior Quiz Meet #2 | All material through John 13        |     37 | Location TBD                             | Moscow, ID                                           |
+| Mar 27, 2027 | Junior Quiz Meet #3 | All selected verses in John         |     55 | Location TBD                             | Inland Northwest (Lewiston, ID or Coeur d'Alene, ID) |
