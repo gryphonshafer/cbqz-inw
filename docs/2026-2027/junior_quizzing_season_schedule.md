@@ -1,3 +1,5 @@
+<!-- docs:hide_top_photo -->
+
 # 2026-2027 Junior Quizzing Season Schedule
 
 Junior Quizzing runs alongside the main 2026-2027 season, with meets held at the same locations and
