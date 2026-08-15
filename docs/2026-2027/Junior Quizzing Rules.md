@@ -1,4 +1,6 @@
 
+<!-- docs:hide_top_photo -->
+
 **NOTE:** These rules assume familiarity with the existing CBQ rulebook for senior-division quizzers, and are based on those rules. 
 
 ## Material
