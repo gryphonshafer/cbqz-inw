@@ -13,4 +13,4 @@ memorized verses cumulatively.
 | Sep 12, 2026 | Scramble            | John 1:1-9                          |      9 | Stories from John 1-3 | Coeur d'Alene Classical Christian School | 4810 N Ramsey Rd, Coeur d'Alene, ID                  |
 | Oct 24, 2026 | Junior Quiz Meet #1 | John 1:1-18                         |     18 | Stories from John 1-6 | Kamiah Bible Church                      | 521 10th St, Kamiah, ID                              |
 | Jan 16, 2027 | Junior Quiz Meet #2 | All material through John 13        |     37 | Stories from John 1-12 | Location TBD                             | Moscow, ID                                           |
-| Mar 27, 2027 | Junior Quiz Meet #3 | All selected verses in John         |     55 | Stories from John 1-21 | Location TBD                             | Inland Northwest (Lewiston, ID or Coeur d'Alene, ID) |
+| Mar 27, 2027 | Junior Quiz Meet #3 | All selected verses in John         |     55 | All selected stories in John | Location TBD                             | Inland Northwest (Lewiston, ID or Coeur d'Alene, ID) |
