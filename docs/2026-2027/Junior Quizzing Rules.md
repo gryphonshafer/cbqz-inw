@@ -12,6 +12,7 @@ Junior Quizzing material uses two verse lists: Memory Verses and Story Verses. M
 A **quiz** consists of two rounds, the **Quoting Bee round** and the **Fastest Finger round**.
 
 The **Quoting Bee round** proceeds as follows:
+
 - The QM will address each quizzer by name, one at a time, to stand and quote one Memory Verse each.
 - The QM will begin from the quizzer seated at the leftmost chair and proceed to the quizzer on the rightmost chair (from the QM's perspective).
 - The QM will state, for example, "Quote John 1:1".
@@ -22,6 +23,7 @@ The **Quoting Bee round** proceeds as follows:
 - Each team will always be asked 3 verses in every quiz. If a team has fewer than 3 quizzers, the quizzer who is seated last (the rightmost chair for that team) will answer more than 1 verse until 3 verses have been asked to the team.
 
 The **Fastest Finger round** proceeds as follows:
+
 - 9 queries are asked (6 when only 2 teams are competing).
 - Query types consist of: Quote, Finish, Question-and-Answer. 3 are asked of each type.
 - Quizzers do not call query subtypes such as Verbatim, Open Book, Add Verse, etc.
@@ -30,6 +32,7 @@ The **Fastest Finger round** proceeds as follows:
 Quote queries function identically to CBQ Quote queries. They may only be asked on Memory Verses.
 
 "Who Said It?" queries ask the quizzer to identify which character(s) in the story said the phrase.
+
 - The quotation can come from Memory Verses or Story Verses.
 - The QM will begin reading from the start of the quotation or the start of a sentence within the quotation. 
 - Quotations are ineligible if they are drastically different / unrecognizable across the translations represented in the quiz.
@@ -38,6 +41,7 @@ Quote queries function identically to CBQ Quote queries. They may only be asked 
 - An answer is not accepted if it requires interpretation outside what is directly stated in the material. For example, "John" cannot be given in place of "the disciple whom Jesus loved".
 
 Question-and-Answer queries are unique to Jr. Quizzing and test general knowledge, phrased in the form of a question.
+
 	- The question can come from Memory Verses or Story Verses.
 	- Each question will include a clear question word: what, who, when, where, why, how, which.
 	- Questions need not be written exactly verbatim from the text, but the question must be recognizable and the answer must be clear and unambiguous in all translations represented in the quiz.
@@ -58,6 +62,7 @@ Each quiz has 3 teams scheduled to compete. If the number of registered teams at
 Score will be tracked for both individuals and teams.
 
 **Quoting Bee** can award anywhere from 1-3 points for each correct answer:
+
 - 2 base points for correct answer
 - Points +1 if quoted verbatim
 - Points -1 if the first 5 words are requested and given
@@ -66,6 +71,7 @@ Score will be tracked for both individuals and teams.
 - E.g. if a quizzer asks for the first 5 words but fails to answer correctly, they don't get a -1 point penalty. They simply get 0 points.
 
 **Fastest Finger** queries:
+
 - Points +2 for every correct answer
 - Points -1 for every incorrect answer
 - Point +1 bonus for a quizzer hitting their ceiling with no errors
@@ -75,6 +81,7 @@ Score will be tracked for both individuals and teams.
 A 1-point penalty will be deducted for fouls.
 
 Fouls occur for one major reason: if a quizzer who has not been called on by the QM communicates, verbally or nonverbally, during an inappropriate time:
+
 	- In the Quoting Bee round, between the time the QM asks a quizzer to stand to quote their verse and the time the ruling is made on the quizzer's answer.
 	- In the Fastest Finger round, between the time the QM says "Ready" and the time the ruling is made on the quizzer's answer.
 	- The above includes the situation where a quizzer buzzes in first, but begins answering before the QM has formally called on them to answer. Since they have not been "called on by the QM" they are not allowed to communicate yet.
