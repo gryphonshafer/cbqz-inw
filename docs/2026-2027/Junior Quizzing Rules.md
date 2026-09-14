@@ -42,12 +42,12 @@ Quote queries function identically to CBQ Quote queries. They may only be asked 
 
 Question-and-Answer queries are unique to Jr. Quizzing and test general knowledge, phrased in the form of a question.
 
-	- The question can come from Memory Verses or Story Verses.
-	- Each question will include a clear question word: what, who, when, where, why, how, which.
-	- Questions need not be written exactly verbatim from the text, but the question must be recognizable and the answer must be clear and unambiguous in all translations represented in the quiz.
-	- Quizzers may buzz in early once they know the answer, and need not complete the question; only the answer is required.
-	- The quizzer's answer need not be verbatim. It must not exclude any part of the answer, and must not significantly change the meaning of the answer.
-	- The quizzer is immediately ruled incorrect if they give a clearly wrong answer, for example, if they say "The Father" instead of "The Word".
+- The question can come from Memory Verses or Story Verses.
+- Each question will include a clear question word: what, who, when, where, why, how, which.
+- Questions need not be written exactly verbatim from the text, but the question must be recognizable and the answer must be clear and unambiguous in all translations represented in the quiz.
+- Quizzers may buzz in early once they know the answer, and need not complete the question; only the answer is required.
+- The quizzer's answer need not be verbatim. It must not exclude any part of the answer, and must not significantly change the meaning of the answer.
+- The quizzer is immediately ruled incorrect if they give a clearly wrong answer, for example, if they say "The Father" instead of "The Word".
 
 ## Teams and Quizzers
 
