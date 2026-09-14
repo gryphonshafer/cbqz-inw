@@ -82,9 +82,9 @@ A 1-point penalty will be deducted for fouls.
 
 Fouls occur for one major reason: if a quizzer who has not been called on by the QM communicates, verbally or nonverbally, during an inappropriate time:
 
-	- In the Quoting Bee round, between the time the QM asks a quizzer to stand to quote their verse and the time the ruling is made on the quizzer's answer.
-	- In the Fastest Finger round, between the time the QM says "Ready" and the time the ruling is made on the quizzer's answer.
-	- The above includes the situation where a quizzer buzzes in first, but begins answering before the QM has formally called on them to answer. Since they have not been "called on by the QM" they are not allowed to communicate yet.
+- In the Quoting Bee round, between the time the QM asks a quizzer to stand to quote their verse and the time the ruling is made on the quizzer's answer.
+- In the Fastest Finger round, between the time the QM says "Ready" and the time the ruling is made on the quizzer's answer.
+- The above includes the situation where a quizzer buzzes in first, but begins answering before the QM has formally called on them to answer. Since they have not been "called on by the QM" they are not allowed to communicate yet.
 
 QMs also reserve the right to foul quizzers on a rare basis where excessively unsportsmanlike conduct is observed. QMs are encouraged to speak with parents/coaches to help correct the behavior first.
 
