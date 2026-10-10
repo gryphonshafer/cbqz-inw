@@ -18,6 +18,7 @@ seasons:
       - name: Meet 1
         start: Oct 24 2026 9 AM PDT
         new_material: John 1-6
+        deadline: 9
         host:
             name: Kamiah Bible Church
             url: https://kamiahbiblechurch.com
