@@ -17,7 +17,7 @@ The **Quoting Bee round** proceeds as follows:
 - The QM will begin from the quizzer seated at the leftmost chair and proceed to the quizzer on the rightmost chair (from the QM's perspective).
 - The QM will state, for example, "Quote John 1:1".
 - The quizzer's quotation need not be verbatim. It must not exclude any section of the verse, and must not significantly change the meaning of the verse. This is to be subjectively determined by the QM.
-- If the quizzer quotes verbatim (according to typical senior-level CBQ rules), bonus points are awarded. Unlike senior CBQ rules, the quizzer does not need to call "verbatim" to get these bonus points.
+- If the quizzer quotes verbatim according to typical CBQ rules, bonus points are awarded. Unlike senior CBQ rules, the quizzer does not need to call "verbatim" to get these bonus points.
 - The quizzer may request to hear the first 5 words of the verse, though this reduces the points earned for a correct answer.
 - After being given the reference, the quizzer has 40 seconds to complete quoting the verse in their registered translation. The timer does not reset if the quizzer asks for the first 5 words.
 - Each team will always be asked 3 verses in every quiz. If a team has fewer than 3 quizzers, the quizzer who is seated last (the rightmost chair for that team) will answer more than 1 verse until 3 verses have been asked to the team.
@@ -27,24 +27,24 @@ The **Fastest Finger round** proceeds as follows:
 - 9 queries are asked (6 when only 2 teams are competing).
 - Query types consist of: Quote, Finish, Question-and-Answer. 3 are asked of each type.
 - Quizzers do not call query subtypes such as Verbatim, Open Book, Add Verse, etc.
-- There are no A/B/C queries. Errors will move the quiz on to the next query number.
+- B/C queries are in effect, as with CBQ quizzing rules. B/C queries will be of the same query type as the A query. 
 
 Quote queries function identically to CBQ Quote queries. They may only be asked on Memory Verses.
 
 "Who Said It?" queries ask the quizzer to identify which character(s) in the story said the phrase.
 
 - The quotation can come from Memory Verses or Story Verses.
-- The QM will begin reading from the start of the quotation or the start of a sentence within the quotation. 
-- Quotations are ineligible if they are drastically different / unrecognizable across the translations represented in the quiz.
+- The QM will begin reading a quotation from one of the translations represented by the quizzers at the quiz meet. It need not begin at the start of the quotation. 
+- Quotations are ineligible if they are drastically different / unrecognizable across the different translations represented at the meet.
 - Quizzers may buzz in early once they recognize the quote, and need not complete the quotation; only the answer is required.
-- Any reasonable answer which identifies the same character in the story is accepted. For example, "the Son of Man" or "Jesus" would both be accepted for Jesus.
-- An answer is not accepted if it requires interpretation outside what is directly stated in the material. For example, "John" cannot be given in place of "the disciple whom Jesus loved".
+- Any reasonable answer which comes from the material and identifies the same character in the story is accepted. For example, "the Son of Man" or "Jesus" would both be accepted for Jesus.
+- An answer is not accepted if it requires interpretation outside what is directly stated in the material, even if it identifies the same character in the story. For example, "John" cannot be given in place of "the disciple whom Jesus loved".
 
 Question-and-Answer queries are unique to Jr. Quizzing and test general knowledge, phrased in the form of a question.
 
 - The question can come from Memory Verses or Story Verses.
 - Each question will include a clear question word: what, who, when, where, why, how, which.
-- Questions need not be written exactly verbatim from the text, but the question must be recognizable and the answer must be clear and unambiguous in all translations represented in the quiz.
+- Questions are general knowledge and need not be written exactly verbatim from any of the translations represented by the quizzers at the quiz meet. However, the question must be recognizable to quizzers from any translation, and there must be a clear and unambiguous answer to the question in all translations represented in the quiz.
 - Quizzers may buzz in early once they know the answer, and need not complete the question; only the answer is required.
 - The quizzer's answer need not be verbatim. It must not exclude any part of the answer, and must not significantly change the meaning of the answer.
 - The quizzer is immediately ruled incorrect if they give a clearly wrong answer, for example, if they say "The Father" instead of "The Word".
@@ -55,7 +55,7 @@ Teams are composed of 1-3 quizzers.
 
 Quizzers register with a translation and are expected to quote that translation when answering. A quizzer may not change their translation during the meet.
 
-Each quiz has 3 teams scheduled to compete. If the number of registered teams at a quiz meet makes it difficult to accommodate 3 teams for each quiz, 2 teams may be used instead. Only one rule changes when a quiz has 2 teams: there will be 6 queries in the Fastest Finger round, instead of 8 queries.
+Each quiz has 3 teams scheduled to compete. If the number of registered teams at a quiz meet makes it difficult to accommodate 3 teams for each quiz, 2 teams may be used instead. Only one rule changes when a quiz has 2 teams: there will be 6 queries in the Fastest Finger round, instead of 9 queries.
 
 ## Scoring
 
@@ -73,7 +73,6 @@ Score will be tracked for both individuals and teams.
 **Fastest Finger** queries:
 
 - Points +2 for every correct answer
-- Points -1 for every incorrect answer
 - Point +1 bonus for a quizzer hitting their ceiling with no errors
 
 ## Fouls
@@ -95,4 +94,4 @@ There are none for junior quizzing.
 ## Best Practices
 
 - For randomly generating references in the Quoting Bee round, the recommended method is to use the "Queries Drill" feature on QuizSage and click "Quote" to generate new random references. The Queries Drill feature also includes a built-in timer.
-- Until we have a scoring tech implementation, basic scoresheets will be printed for the QM to use.
+- Scoresheets will be printed for the QM to use until a tech implementation is built.
