@@ -31,7 +31,9 @@ seasons:
         start: Jan 16 2027 9 AM PST
         new_material: John 10-12
         host:
-            name: Moscow, ID (location TBD)
+            name: Bridge Bible Fellowship East
+            url: https://bridgebibleeast.org
+            address: 1016 South Mountain View Road, Moscow ID 83843
 
       - name: Meet 4
         region: WWA
@@ -40,7 +42,7 @@ seasons:
         start: Mar 27 2027 8 AM PDT
         new_material: John 18-21
         host:
-            name: Inland Northwest (location TBD)
+            name: Moscow, ID (Location TBD)
 
       - name: Championships
         start: Apr 30 2027 5 PM PDT
