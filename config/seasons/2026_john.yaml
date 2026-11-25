@@ -25,7 +25,11 @@ seasons:
             address: 521 10th St, Kamiah ID 83536
 
       - name: Meet 2
-        region: WWA
+        start: Dec 5 2026 9 AM PDT
+        new_material: John 7-9
+        deadline: 3
+        host:
+            name: Moscow, ID TBD
 
       - name: Meet 3
         start: Jan 16 2027 9 AM PST
